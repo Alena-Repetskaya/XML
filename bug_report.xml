@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content>Заголовок / Краткое описание / Тема / Summary / Title</content>
-<content>Не переведены на украинский язык тексты ошибок (что?) на форме “Зворотний зв’язок” на странице https://itawards.ua/ua (где?) в UA версии сайта (когда?)</content>
-<content>Скриншот / видео</content>
-<content>Скриншот / ссылка на скриншот</content>
-<content>Шаги к воспроизведению</content>
-<content>Открыть страницу https://itawards.ua/ua</content>
-<content>Проскролить к форме “Зворотний зв’язок”</content>
-<content>Нажать на кнопку “Надіслати”</content>
-<content>Обратить внимание на язык ошибок, которые появились под полями формы</content>
-<content>Фактический результат</content>
-<content>Отображаются ошибки на английском языке</content>
-<content>Ожидаемый результат</content>
-<content>Отображаются ошибки на украинском языке</content>
-<content>Серьезность</content>
-<content>S1 (minor)</content>
+<note>
+	<content>Баг</content>
+	<content>Не переведены на украинский язык тексты ошибок (что?) на форме “Зворотний зв’язок” на странице https://itawards.ua/ua (где?) в UA версии сайта (когда?)</content>
+	<content>Скриншот / видео</content>
+	<content>Скриншот / ссылка на скриншот</content>
+	<content>Шаги к воспроизведению</content>
+	<content>Открыть страницу https://itawards.ua/ua</content>
+	<content>Проскролить к форме “Зворотний зв’язок”</content>
+	<content>Нажать на кнопку “Надіслати”</content>
+	<content>Обратить внимание на язык ошибок, которые появились под полями формы</content>
+	<content>Фактический результат</content>
+	<content>Отображаются ошибки на английском языке</content>
+	<content>Ожидаемый результат</content>
+	<content>Отображаются ошибки на украинском языке</content>
+	<content>Серьезность</content>
+	<content>S1 (minor)</content>
+</note>
+
